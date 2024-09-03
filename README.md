@@ -6,6 +6,6 @@
 <br/>
 
 <h2>목차</h2>
-![image](https://github.com/user-attachments/assets/89256db5-43be-4e1a-b24e-a01361f14800)
+<img src=https://github.com/user-attachments/assets/89256db5-43be-4e1a-b24e-a01361f14800>
 >
 </aside>
