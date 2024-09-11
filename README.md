@@ -92,7 +92,7 @@ R-squared가 0.989으로, 1과 매우 근접하게 나왔고, Prob (F-statistic)
 <br/>
 
 <h2>4. (잘못) 수정된 선형회귀 모델- 모델 분석</h2>
-<img src=(https://github.com/user-attachments/assets/bf873a70-f76f-47ed-b104-3e3a1f9548c8>
+<img src=https://github.com/user-attachments/assets/bf873a70-f76f-47ed-b104-3e3a1f9548c8>
 <br/>
 <br/>
 
