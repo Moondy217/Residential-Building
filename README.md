@@ -119,11 +119,6 @@ R-squared가 0.989으로, 1과 매우 근접하게 나왔고, Prob (F-statistic)
 <br/>
 
 
-<h2>별첨 QQ Plot</h2>
-<img src=https://github.com/user-attachments/assets/6ab0f1b8-9c2d-480b-8e55-3bb4cd34912f>
-<br/>
-<br/>
-
 <h2>별첨 Residuals vs Fitted Plot</h2>
 <img src=https://github.com/user-attachments/assets/bdb2bc02-d299-470a-bf55-17f3cd34c33f>
 <br/>
