@@ -55,17 +55,46 @@ V-9를 독립변수로 지정했다.
 <br/>
 
 
+<h2>3. 선형회귀 모델 - 데이터 분할</h2>
+<img src=https://github.com/user-attachments/assets/0761402b-00b5-4d0f-8e88-c196b3abc910>
+가장한 흔하고 널리 사용되는 7:1:2의 비율로 데이터를 분할하였다.
+<br/>
+<br/>
+
+<h2>3. 선형회귀 모델 - 모델 생성 및 결과</h2>
+<img src=https://github.com/user-attachments/assets/5d6cb8df-e8a4-4bce-b940-056a6f8ba99b>
+<br/>
+<br/>
 
 
+<h2>3. 선형회귀 모델 - 모델 분석</h2>
+<img src=https://github.com/user-attachments/assets/b4706aed-851e-4478-92e4-629a0207fbd3>
+R-squared가 0.989으로, 1과 매우 근접하게 나왔고, Prob (F-statistic)가 3.38e-152로, p-value값이 0.05보다 낮게 나왔으므로 통계적으로 유의하다.
+<br/>
+<br/>
+
+<h2>3. 선형회귀 모델 - 모델 튜닝</h2>
+<img src=https://github.com/user-attachments/assets/181f90b3-b5c4-4723-8c27-355944272ce3>
+## 치명적인 실수! 독립변수가 한 개일 때는 VIF 지수로 변수를 제거하면 안 된다!
+<br/>
+<br/>
 
 
+<h2>4. (잘못) 수정된 선형회귀 모델</h2>
+<img src=https://github.com/user-attachments/assets/28004b37-7b4a-4ced-8200-22778fab78f2>
+<br/>
+<br/>
 
 
+<h2>4. (잘못) 수정된 선형회귀 모델- 모델 결과</h2>
+<img src=https://github.com/user-attachments/assets/8c92bedf-a310-4ced-aeca-ca80f6c2bd1e>
+<br/>
+<br/>
 
-
-
-
-
+<h2>4. (잘못) 수정된 선형회귀 모델- 모델 분석</h2>
+<img src=(https://github.com/user-attachments/assets/bf873a70-f76f-47ed-b104-3e3a1f9548c8>
+<br/>
+<br/>
 
 
 
