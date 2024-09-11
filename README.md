@@ -17,7 +17,6 @@ Residential-Building을 선형 회귀 모델로 분석한 프로젝트입니다
 
 <h2>사용한 데이터</h2>
 ![image](https://github.com/user-attachments/assets/76f0bad9-003e-48d8-b35a-99c8727131e6)
->
 <br/>
 
 
