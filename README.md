@@ -97,6 +97,22 @@ R-squared가 0.989으로, 1과 매우 근접하게 나왔고, Prob (F-statistic)
 <br/>
 
 
+<h2>5. (잘못) 수정된 선형회귀 모델 비교</h2>
+<img src=https://github.com/user-attachments/assets/28169650-5228-478a-ba33-2659762b9a54>
+<br/>
+<br/>
+
+<h2>별첨</h2>
+<img src=https://github.com/user-attachments/assets/59d15da8-183d-4402-a9f8-0b7a4ba504d9>
+<br/>
+<br/>
+
+<h2>별첨 Residual Plot</h2>
+<img src=https://github.com/user-attachments/assets/778d5562-7968-498c-9f50-587b6fe7ec23>
+<br/>
+<br/>
+
+
 
 
 
