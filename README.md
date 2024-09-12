@@ -34,7 +34,7 @@ Residential-Building을 선형 회귀 모델로 분석한 프로젝트입니다
 <br/>
 
 <h2>2-2. 선형회귀 모델 - 변수 설명 및 독립변수 선택</h2>
-<img src=https://github.com/user-attachments/assets/e5d75b0f-226d-4a2d-a070-09cf1bbb68ad??>
+<img src=https://github.com/user-attachments/assets/64c65fba-395b-4c02-a7c9-534845e18aac>
 V-9를 독립변수로 지정했다.
 <br/>
 <br/>
